@@ -1,0 +1,14 @@
+{
+  "name": "products-api",
+  "version": "0.1.0",
+  "description": "Express API for Products Resource",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Farley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
